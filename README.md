@@ -95,6 +95,6 @@ This project is licensed under the [e.g., MIT License] - see the `LICENSE` file 
 
 **Shikha Shukla**
 
-* **GitHub:** 
-* **LinkedIn:** 
+* **GitHub:** https://github.com/Shikha18Shukla
+* **LinkedIn:** https://www.linkedin.com/in/shikha-shukla-779133339/
 * **Email:** shikhashuklaknice@gmail.com
