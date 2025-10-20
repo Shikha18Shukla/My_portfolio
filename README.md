@@ -43,7 +43,7 @@ You will need the following installed on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone : 
+    git clone : https://github.com/Shikha18Shukla/My_portfolio
     cd CodePortfolio
     ```
 
